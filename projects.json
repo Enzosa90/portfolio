@@ -1,0 +1,32 @@
+[
+  {
+    "name": "UI clone do mario bros",
+    "image": "./img/mario.page.png",
+    "tags": ["HTML", "CSS", "Animação Estilizada"],
+    "link": "https://github.com/Enzosa90"
+  },
+	{
+    "name": "Sistema Bancario",
+    "image": "./img/banco.page.png",
+    "tags": ["Python", "MySQL", "PyQt5"],
+    "link": "https://github.com/Enzosa90"
+  },
+	{
+    "name": "Login Page",
+    "image": "./img/login_page.png",
+    "tags": ["Javascript", "API TMDB", "Conteudo dinamico"],
+    "link": "https://github.com/Enzosa90"
+  },
+  {
+    "name": "Web Site JobFinder",
+    "image": "./img/jobfinder.page.png",
+    "tags": ["Javascript", "API TMDB", "Conteudo dinamico"],
+    "link": "https://github.com/Enzosa90"
+  },
+  {
+    "name": "ADD ainda",
+    "image": "./img/login_page.png",
+    "tags": ["Javascript", "API TMDB", "Conteudo dinamico"],
+    "link": "https://github.com/Enzosa90"
+  }
+]
