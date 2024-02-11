@@ -65,8 +65,6 @@ const loadProjects = (projects) => {
 
 }
 
-
-
 fetch('./projects.json').then(response => response.json()).then(loadProjects)
 
 
