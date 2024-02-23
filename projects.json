@@ -25,8 +25,14 @@
   },
   {
     "name": "EasyCar",
-    "image": "./img/easycar.png",
+    "image": "./img/easycar2.png",
     "tags": ["HTML", "CSS", "Banco de Dados"],
+    "link": "https://github.com/Enzosa90"
+  },
+  {
+    "name": "Login Page Animado",
+    "image": "./img/login.page.animado.png",
+    "tags": ["HTML", "CSS", "Javascript"],
     "link": "https://github.com/Enzosa90"
   }
 ]
