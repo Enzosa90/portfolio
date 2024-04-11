@@ -1,1 +1,1 @@
-Portfolio desenvolvido para exposição dos projetos e estudos para área de desenvolvedor front end.
+Portfolio desenvolvido para exposição dos projetos e estudo para área de desenvolvedor front end.
